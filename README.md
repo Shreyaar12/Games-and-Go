@@ -1,5 +1,5 @@
+![image](https://github.com/Shreyaar12/Games-and-Go/assets/91542376/1b0e503a-cd5f-469a-adee-e814f0fff3a3)
 <p align="center">
-    <img src="https://technologyandsociety.org/wp-content/uploads/Logo-Color-1.jpg" />
     <h1 align="center">Games and Go</h2>
     <p>As the world races forward, sometimes we yearn for the simpler times of the past. The Nostalgia Gaming Collection is here to take you on a journey back to 		the 90s, where you can relive the joy of classic games like Tic Tac Toe, Pacman, and many more. Let nostalgia transport you to a magical era and 		remind you to slow down and appreciate the simple pleasures of life.</p>
     <h3 align="center"> It is indeed possible!!  with Games-and-Go 🤩</h3>
